@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: webcont
-          image: skshareef/k8s:4
+          image: skshareef/k8s:5
 
           ports:
             - containerPort: 8080
